@@ -22,7 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [dms](dms/) | 18.0.1.0.5 |  | Document Management System for Odoo
-[dms_field](dms_field/) | 18.0.1.0.0 |  | Create DMS View and allow to use them inside a record
+[dms_field](dms_field/) | 18.0.1.0.1 |  | Create DMS View and allow to use them inside a record
 [dms_user_role](dms_user_role/) | 18.0.1.0.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | DMS User Role
 
 [//]: # (end addons)
