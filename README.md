@@ -22,7 +22,7 @@ Available addons
 addon | version | maintainers | summary
 --- | --- | --- | ---
 [dms](dms/) | 13.0.8.5.2 |  | Document Management System for Odoo
-[dms_attachment_link](dms_attachment_link/) | 13.0.1.1.0 | [![victoralmau](https://github.com/victoralmau.png?size=30px)](https://github.com/victoralmau) | Dms Attachment Link
+[dms_attachment_link](dms_attachment_link/) | 13.0.1.1.0 | <a href='https://github.com/victoralmau'><img src='https://github.com/victoralmau.png' width='32' height='32' style='border-radius:50%;' alt='victoralmau'/></a> | Dms Attachment Link
 [dms_field](dms_field/) | 13.0.1.1.2 |  | Create DMS View and allow to use them inside a record
 
 [//]: # (end addons)
