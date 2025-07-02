@@ -61,7 +61,7 @@ Credits
 Authors
 -------
 
-* Phan Hong Phuc
+* Phan Hong Phucm
 
 Maintainers
 -----------
