@@ -1,0 +1,1 @@
+This module provides a preview of Microsoft Office documents in DMS file. It allows users to view documents such as Word, Excel, and PowerPoint files directly within the Odoo interface without needing to download them.
